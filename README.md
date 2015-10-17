@@ -14,3 +14,5 @@ New Zealand Metadata Extractor 3.6GC also use classloader unfriendly ClassLoader
 Patching all of these projects is just a pain. And to make thing more annoying FITS and NZME still use ant and include a fuckload of jars in their source distribution.
 
 I did have some minor success patching JHove1.12 and FITS 0.8.10 to working with a custom classloader. <jolf@kb.dk> upgraded FITS to the latest JHove and also fixed some other outdates stuff.
+
+The modified version of FITS can be found here: https://github.com/nclarkekb/fits
