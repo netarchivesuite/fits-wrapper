@@ -8,7 +8,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
-import com.antiaction.bootstrap.Classloader;
+import com.antiaction.bootstrap.classloader.Classloader;
 
 public class FitsRun {
 
